@@ -1,5 +1,4 @@
-<h1 align="center">Assalamu Alaikum, I'm Rasel Sharif</h1>
-<h1 align="center">React JS Developer</h1>
+<img src="https://raw.githubusercontent.com/raselsharif/raselsharif/main/image/github-cover.png">
 
 # 📊 GitHub Stats:
 

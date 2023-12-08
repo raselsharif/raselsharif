@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/raselsharif/raselsharif/main/image/github-cover.png">
+<img src="https://raw.githubusercontent.com/raselsharif/raselsharif/main/image/github-cover-02.png">
 
 # 📊 GitHub Stats:
 

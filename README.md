@@ -38,6 +38,6 @@
 
 <a href="https://assets-management-719c2.web.app/" target="_blank">Asset Management System</a>
 
-##### Server Side:
+##### Client Side Code:
 
-<a href="https://github.com/raselsharif/programmingHero-assingment-12-server-side" target="_blank">Server Side Code</a>
+<a href="https://github.com/raselsharif/programmingHero-assingment-12-client-side" target="_blank">Client Side Code</a>
